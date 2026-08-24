@@ -35,7 +35,7 @@ Generic LLMs are inconsistent and often too verbose or vague when asked domain-s
 
 ## How to run
 
-1. Open `Pharma_LoRA_FineTuning.ipynb` in Google Colab (badge above) or locally with a CUDA GPU.
+1. Open `Pharma Drug Information Assistant.ipynb` in Google Colab (badge above) or locally with a CUDA GPU.
 2. Set runtime to a T4 GPU (Colab free tier works).
 3. Run all cells top to bottom — it installs dependencies, pulls data, fine-tunes, evaluates, and launches a live demo link.
 
