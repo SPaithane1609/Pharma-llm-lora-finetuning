@@ -1,0 +1,28 @@
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Training artifacts (can be large — don't commit checkpoints)
+pharma-lora-checkpoints/
+pharma-lora-adapter/
+pharma-merged-model/
+*.bin
+*.safetensors
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab
+sample_data/
