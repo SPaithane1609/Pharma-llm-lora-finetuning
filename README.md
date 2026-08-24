@@ -1,6 +1,6 @@
 # Pharma Drug Information Assistant — LoRA Fine-Tuning of an Open-Source LLM
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SPaithane1609/pharma-lora-finetuning/blob/main/Pharma_LoRA_FineTuning.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/SPaithane1609/Pharma-llm-lora-finetuning/blob/main/Pharma%20Drug%20Information%20Assistant.ipynb))
 
 A parameter-efficient fine-tuning (LoRA/QLoRA) project that adapts an open-source LLM (TinyLlama-1.1B-Chat) to answer pharmaceutical questions — drug indications, dosage, warnings, and side effects — using real FDA drug label data.
 
